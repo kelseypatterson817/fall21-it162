@@ -2,7 +2,7 @@
 /*
 portal-config.php
 
-Used to store all of our WEB120 configuration information
+Used to store all of our IT162 configuration information
 
 */
 
